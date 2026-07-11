@@ -19,7 +19,7 @@
 - 🌱 Deep into **Generative AI workflows** and AI-assisted development (Copilot, ChatGPT)
 - 💻 Building scalable full-stack apps with **ReactJS, Next.js, Node.js & .NET Core**
 - 📍 Based in Hyderabad, India
-- 📫 Reach me at **sabhawatrahul82@gmail.com**
+- 📫 View my work at https://www.rahulnaik.site/
 
 ---
 
